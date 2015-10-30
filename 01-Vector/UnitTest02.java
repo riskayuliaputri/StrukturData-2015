@@ -10,6 +10,7 @@ import org.junit.Test;
  * @version (a version number or a date)
  */
 public class UnitTest02 {
+    
     /**
      * Default constructor for test class UnitTest02
      */
