@@ -1,0 +1,5 @@
+
+interface Binatang
+{
+ String suara ();
+}
