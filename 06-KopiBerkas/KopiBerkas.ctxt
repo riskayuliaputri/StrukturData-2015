@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=sumber\ sasaran
+comment0.target=void\ kopi(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Membaca\ suatu\ berkas\ dan\ menampilkan\ isinya.\r\n\r\n\ Parameter\:\r\n\ \ \ namaBerkas\ \=\ Nama\ berkas\ yang\ akan\ dibaca\r\n
+numComments=1
